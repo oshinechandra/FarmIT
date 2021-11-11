@@ -1,0 +1,33 @@
+strong{
+  color:red;
+}
+body{
+  font-family: 'Work-Sans',sans-serif;
+  text-align: center;
+}
+th{
+  padding: 20px 40px 20px 40px;
+  background-color: #f1f1f1;
+  text-align: center;
+
+
+}
+td{
+  padding: 15px 50px 0 50px;
+  text-align: center;
+}
+
+
+.header{
+  padding: 20px;
+  margin: 18px 0px 18px 0;
+  background-color: #639a67;
+  width:100%;
+
+}
+
+.panel-heading{
+  padding: 20px;
+  background-color: #cceabb;
+  width:100%;
+}
